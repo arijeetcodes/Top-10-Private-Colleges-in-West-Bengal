@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+}
+header{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+table, th, td{
+    border: 2px solid black;
+}
